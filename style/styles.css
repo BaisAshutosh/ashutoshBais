@@ -210,27 +210,27 @@ fhtml {
   }
   
   .w-icon-slider-right:before {
-	content: "Ã®Ëœâ‚¬";
+	content: "î˜€";
   }
   
   .w-icon-slider-left:before {
-	content: "Ã®ËœÂ";
+	content: "î˜";
   }
   
   .w-icon-nav-menu:before {
-	content: "Ã®Ëœâ€š";
+	content: "î˜‚";
   }
   
   .w-icon-arrow-down:before, .w-icon-dropdown-toggle:before {
-	content: "Ã®ËœÆ’";
+	content: "î˜ƒ";
   }
   
   .w-icon-file-upload-remove:before {
-	content: "Ã®Â¤â‚¬";
+	content: "î¤€";
   }
   
   .w-icon-file-upload-icon:before {
-	content: "Ã®Â¤Æ’";
+	content: "î¤ƒ";
   }
   
   * {
@@ -13683,14 +13683,6 @@ fhtml {
 	display: flex;
   }
 
-    
-	/*.fs-28{*/
-	/*	font-size: 28px;*/
-	/*}*/
-
-	/* .fs-20{
-		font-size: 20px;
-	} */
 
 	.fs-21{
 		font-size: 21px;
@@ -13739,19 +13731,6 @@ fhtml {
 		left: -10vw;
 	}
   }
-
-  /*@media screen and (max-width: 1920px){*/
-	/*.p-top-bottom {*/
-	/*	padding-top: 11%;*/
-	/*	padding-bottom: 11%;*/
-	/*}*/
-	/*.p-top-bottom-8{*/
-	/*    padding-top: 8%;*/
-	/*	padding-bottom: 8%;*/
-	/*}*/
-  /*}*/
-
-  
 .sticky-arrow-bottom{
     width: 40px;
     height: 40px;
@@ -13765,5 +13744,3 @@ fhtml {
     opacity:0.25;
     text-align: center;
 }
-  
-
