@@ -7940,6 +7940,7 @@ fhtml {
   }
   
   .page-padding {
+    height:80%
 	width: 100%;
 	padding-left: 5vw;
 	padding-right: 5vw;
@@ -13552,7 +13553,7 @@ fhtml {
 		padding-bottom: 70px;
 	}
 	.heading-xhuge{
-		font-size: 80px !important;
+		font-size: 70px !important;
 	}
 	.text-size-large-2{
 		font-size: 24px;
